@@ -1,0 +1,21 @@
+{
+  "name": "Narva",
+  "version": "1.0.0",
+  "dependencies": {
+    "bower": "*",
+    "bower-sync": "*",
+    "browser-sync": "^2.23.6",
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-imagemin": "*",
+    "gulp-minify-css": "*",
+    "gulp-rigger": "*",
+    "gulp-sass": "*",
+    "gulp-scss": "^1.4.0",
+    "gulp-sourcemaps": "*",
+    "gulp-uglify": "*",
+    "gulp-watch": "^5.0.0",
+    "imagemin-pngquant": "*",
+    "npm": "^5.7.1"
+  }
+}

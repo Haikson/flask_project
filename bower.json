@@ -1,0 +1,21 @@
+{
+  "name": "FlaskProject",
+  "description": "Flask project",
+  "main": "",
+  "authors": [
+    "Haikson <kamo@haikson.com>"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.haikson.com/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "4.*",
+    "jquery": "2.*"
+  }
+}
